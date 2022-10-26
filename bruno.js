@@ -1,0 +1,9 @@
+let parcela1 = 15
+let parcela2 = 20
+let resultado = 0
+var parcela3 = 150
+var parcela4 = 200
+var resultado2 = 0
+let meunome = "bruno"
+var meunome2 = "Bruno Benício Vieira da Silva"
+let parcelajunta = parcela1
